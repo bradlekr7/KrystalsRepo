@@ -1,0 +1,88 @@
+{
+  "Employee Addresses": [
+    {
+      "name": "Mary Jones",
+      "street address": "2346 Plymouth Ave",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip" : "38395"
+    },
+    {
+      "name": "John Smith",
+      "street address": "708 Warren St",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip" : "96854"
+    },
+    {
+      "name": "Ally Thomas",
+      "street address": "8953 Lafayette St",
+      "city": "Portland",
+      "state": "Oregon",
+      "zip" : "29485"
+    },
+    {
+      "name": "William Edwards",
+      "street address": "204 Jefferson Blvd",
+      "city": "St. Louis",
+      "state": "Missouri",
+      "zip" : "94843"
+    },
+    {
+      "name": "Jennifer Nelson",
+      "street address": "1200 McNichols St.",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip" : "20001"
+    },
+
+    {
+      "name": "Christopher Young",
+      "street address": "9404 Joy Rd",
+      "city": "Birmingham",
+      "state": "Michigan",
+      "zip" : "95054"
+    },
+
+    {
+      "name": "Aaron Williams",
+      "street address": "4940 Woodward Avenue",
+      "city": "New York City",
+      "state": "New York",
+      "zip" : "40039"
+    },
+
+    {
+      "name": "Christina Lee",
+      "street address": "4895 Maple Rd",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip" : "79706"
+    },
+
+    {
+      "name": "Michael Evans",
+      "street address": "895 Forest Dr",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip" : "48596"
+    },
+
+    {
+      "name": "Dale Edwards",
+      "street address": "3066 Cherry Oak Blvd",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "zip" : "06064"
+    },
+
+    {
+      "name": "Allison White",
+      "street address": "6094 Edison St",
+      "city": "Arlington",
+      "state": "Virginia",
+      "zip" : "30596"
+    }
+
+   ]
+}
